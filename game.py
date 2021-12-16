@@ -84,7 +84,7 @@ def main():
         if generate_food_count > generate_food_freq:
             generate_food_freq = random.randint(10, 20)
             generate_food_count = 0
-            food = Food(game_images, random.choice(['gold',] * 10 + ['apple']), cfg.SCREENSIZE)
+            food = Food(game_images, random.choice(['gold',] * 10), cfg.SCREENSIZE)
             food_sprites_group.add(food)
         
         for food in food_sprites_group:
