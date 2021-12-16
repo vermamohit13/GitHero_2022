@@ -1,4 +1,5 @@
-
+# This game is not owned by any of the problemsetters, it belongs to Akshar Singh
+# for queries regarding the game(how he made it and how it works and all) contact him
 
 import os 
 import cfg
