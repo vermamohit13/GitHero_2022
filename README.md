@@ -19,7 +19,7 @@ Try to complete as many challenge as you can. All the Best! What are you waiting
 
 
 ## After finishing all the challenges
-Once you Complete the Game, try to play the game with the following controls.
+Once you complete the challenges, try to play the game with the following controls.
 |              | Button              |
 |--------------|---------------------|
 | Move Left    | <kbd>left</kbd>     |
