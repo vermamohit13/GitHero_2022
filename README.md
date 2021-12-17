@@ -13,7 +13,7 @@ You need to document all the steps you follow along the way in a file named `rep
 Once you are done with the as many challenges as you were able to solve, you need to make a final Pull Request containing that file. 
 The marks you get for each question will depend on the quality of your commits, time taken to make the commits, and how well you are able to explain the steps taken.
 
-## Some Tips
+## Some tips
 Google, git status and git log are your best friends in this challenge.
 Try to complete as many challenge as you can. All the Best! What are you waiting for now? Go start with the challenges.
 
