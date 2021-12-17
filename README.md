@@ -20,6 +20,10 @@ Try to complete as many challenge as you can. All the Best! What are you waiting
 
 ## After finishing all the challenges
 Once you complete the challenges, try to play the game with the following controls.
+To play the game:
+`pip install -r requirements.txt`
+`python3 game.py`
+
 |              | Button              |
 |--------------|---------------------|
 | Move Left    | <kbd>left</kbd>     |
