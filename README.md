@@ -4,6 +4,7 @@ We welcome you all to Git Hero 2022
 
 ## Plot
 There are two friends, Paddu and Vicku (you know who they are ;P).
+
 Hint: Paddu is a pro level comder while Vicku is a graphic designing gawd.
 
 Vicku is a very short-tempered guy. Interestingly, Vicku got infected with a deadly and contagious disease ‘F’. As he was in quarantine and was feeling agitated, there are chances that he might come out and spread the disease throughout the campus. So, his good friend Paddu, in an attempt to stop Vicku, developed a game. But, there are some bugs in the game that need to be fixed and Vicku is a noob when it comes to using git.
