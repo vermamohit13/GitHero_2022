@@ -3,7 +3,13 @@ We welcome you all to Git Hero 2022
 
 
 ## Plot
-The [DehlaPakad](https://dehlapakad.com) team wants to create a new game. But the problem is Priyam and Pranshu are not ready to give the code of the game directly. They are smart, and they knew the team does not have a good idea about git and github. So they created a series of challenges and the team has to solve them in order to get the full fledged game. Now the team has came to IIT Mandi's freshers for their rescue. Help the team to gain the fully fledged working code of the Game.
+There are two friends, Paddu and Vicku (you know who they are ;P).
+Hint: Paddu is a pro level comder while Vicku is a graphic designing gawd.
+
+Vicku is a very short-tempered guy. Interestingly, Vicku got infected with a deadly and contagious disease ‘F’. As he was in quarantine and was feeling agitated, there are chances that he might come out and spread the disease throughout the campus. So, his good friend Paddu, in an attempt to stop Vicku, developed a game. But, there are some bugs in the game that need to be fixed and Vicku is a noob when it comes to using git.
+
+If Vicku is not able to play the game, he will come out of his quarantine and spread the disease throughout the campus. Hence, in order to stop this madness and save yourself from getting infected by ‘F’, you need to help Vicku in removing bugs from the game.
+
 
 ## Get started
 To get started, go to the [issues](https://github.com/KamandPrompt/GitHero_2022/issues) tab. Start with the challenge 1 to challenge 7. The scores for them are alongside and they go in order, so until you complete the challenge1, you cannot move to challenge2. You need to complete previous challenges first.
