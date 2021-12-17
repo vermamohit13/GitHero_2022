@@ -25,6 +25,8 @@ Once you Complete the Game, try to play the game with the following controls.
 | Move Left    | <kbd>left</kbd>     |
 | Move right   | <kbd>right</kbd>    |
 
+Game Credits: Akshar Singh
+
 ## Visualising git commands :-
 1. https://onlywei.github.io/explain-git-with-d3/#checkout-b
 2. https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1
