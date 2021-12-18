@@ -31,9 +31,9 @@ To play the game:
 
 In the cmd/terminal:
 
-`pip install -r requirements.txt`
+`pip install pygame`
 
-`python3 game.py`
+`python game.py`
 
 |              | Button              |
 |--------------|---------------------|
